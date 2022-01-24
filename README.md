@@ -29,7 +29,7 @@ In this program I analyzed data from two currencies. Some example code of the an
 
 ![Graph](https://github.com/beccabeastly/Arbitrage_Trading_Project/blob/main/project_code_2.png)
 
-![Graph]()
+![Graph](https://github.com/beccabeastly/Arbitrage_Trading_Project/blob/main/graph.png)
 
 
 # Contributors
