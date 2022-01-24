@@ -1,5 +1,5 @@
 # Arbitrage_Trading_Project
-Analyzed data with Jupyter lab using pandas to find arbitrage trading opportunities
+Analyzed data with Jupyter lab using pandas to find arbitrage trading opportunities with two currencies
 
 ---
 # Technologies
@@ -18,8 +18,8 @@ Install GitBash to add Pandas here: [GitBash Install](https://gitforwindows.org/
 
 ###utilize Matplotlib by including code '%matplotlib inline' library
 ---
-# add license
-Educational purposes
+# license
+**Educational purposes**
 ---
 
 # Code Footnotes
