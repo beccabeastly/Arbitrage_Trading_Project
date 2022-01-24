@@ -25,7 +25,7 @@ Educational purposes
 # Code Footnotes
 
 In this program I analyzed data from two currencies. Some example code of the analysis is as follows
-![Bitstamp](GitHub_Upload\Crypto_Trade_Analysis\project_code_1.png)
+![Bitstamp](https://github.com/beccabeastly/Arbitrage_Trading_Project/blob/main/graph.png)
 
 ![Graph](C:\Users\becca\OneDrive\Desktop\FinTech_Workspace\Python_project\GitHub_Upload\Crypto_Trade_Analysis\project_code_2.png)
 
