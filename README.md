@@ -27,9 +27,9 @@ Educational purposes
 In this program I analyzed data from two currencies. Some example code of the analysis is as follows
 ![Bitstamp](https://github.com/beccabeastly/Arbitrage_Trading_Project/blob/main/project_code_1.png)
 
-![Graph](C:\Users\becca\OneDrive\Desktop\FinTech_Workspace\Python_project\GitHub_Upload\Crypto_Trade_Analysis\project_code_2.png)
+![Graph](https://github.com/beccabeastly/Arbitrage_Trading_Project/blob/main/project_code_2.png)
 
-![Image](C:\Users\becca\OneDrive\Desktop\FinTech_Workspace\Python_project\GitHub_Upload\Crypto_Trade_Analysis\graph.png)
+![Graph](C:\Users\becca\OneDrive\Desktop\FinTech_Workspace\Python_project\GitHub_Upload\Crypto_Trade_Analysis\graph.png)
 
 
 # Contributors
