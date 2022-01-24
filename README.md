@@ -16,7 +16,7 @@ Install Python 3: use this link  [Python Install](https://www.python.org/)
 **For Windows**
 Install GitBash to add Pandas here: [GitBash Install](https://gitforwindows.org/) 
 
-###utilize Matplotlib by including code '%matplotlib inline' library
+utilize Matplotlib by including code `%matplotlib inline` library
 ---
 # license
 **Educational purposes**
@@ -33,4 +33,4 @@ In this program I analyzed data from two currencies. Some example code of the an
 
 
 # Contributors
-![Email](beccabeastly@gmail.com)
+[Email](beccabeastly@gmail.com)
